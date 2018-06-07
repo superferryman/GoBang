@@ -1,6 +1,5 @@
-# QtWuziqi
-Qt 写的五子棋小游戏，带AI和双人对战
-# ScreenShot
-![](https://github.com/tashaxing/QtWuziqi/raw/master/pic/wuziqi.gif)<br/>
+# GoBang
+  这是一个基于QT的五子棋游戏
+> 介绍到此结束
 # BlogAddress
-http://blog.csdn.net/u012234115/article/details/53871009
+superferryman.com
