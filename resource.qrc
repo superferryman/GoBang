@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/sound/chessone.wav</file>
+        <file>res/sound/lose.wav</file>
+        <file>res/sound/win.wav</file>
+        <file>res/sound/wuziqi.jpeg</file>
+        <file>res/sound/5a0a55db6a38a.jpg</file>
+        <file>res/sound/avatar.jpg</file>
+        <file>res/sound/qr_alipay.jpg</file>
+    </qresource>
+</RCC>
